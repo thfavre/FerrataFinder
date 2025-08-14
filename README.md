@@ -2,6 +2,10 @@
 
 A web application to find and visualize via ferrata routes with travel time calculations and interactive mapping.
 
+## Preview
+<img width="800" height="416" alt="image" src="https://github.com/user-attachments/assets/2c5515af-1a8a-4886-b5eb-05e50867d367" />
+
+
 ## Features
 
 - **Interactive Map**: View via ferrata locations on a map with different colored markers based on travel time
