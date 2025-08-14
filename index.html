@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+   <title>FerrataFinder</title>
+   <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+
+    <div id="sidebar">
+        <form id="travelModeForm">
+            <label class="form-label" for="travelMode">Mode de déplacement</label>
+            <select class="form-input" id="travelMode" name="travelMode">
+                <option value="DRIVING">Voiture</option>
+                <option value="TRANSIT">Transport public</option>
+                <option value="BICYCLING">Vélo</option>
+                <option value="WALKING">Marche</option>
+            </select>
+        </form>
+
+        <div id="labelOptionsForm">
+            <label class="form-label">Affichage sur les marqueurs</label>
+            <div class="checkbox-group">
+                <label class="checkbox-label">
+                    <input type="checkbox" name="labelOption" value="duration">
+                    <span class="checkbox-text">Durée de la ferrata</span>
+                </label>
+                <label class="checkbox-label">
+                    <input type="checkbox" name="labelOption" value="name">
+                    <span class="checkbox-text">Nom de la ferrata</span>
+                </label>
+            </div>
+        </div>
+
+        <form id="locationForm">
+            <label for="startLocation">Lieu de départ</label>
+            <input type="text" id="startLocation" name="startLocation" required>
+            <button type="submit">Calculer</button>
+        </form>
+
+        <div id="legend">
+            <h3>Légende des couleurs</h3>
+            <div class="legend-item">
+                <span class="legend-color gray"></span>
+                <span class="legend-text">Pas de données de voyage</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-color green"></span>
+                <span class="legend-text">< 1 heure</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-color yellow"></span>
+                <span class="legend-text">1 - 1.5 heures</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-color orange"></span>
+                <span class="legend-text">1.5 - 2 heures</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-color red"></span>
+                <span class="legend-text">2 - 3 heures</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-color purple"></span>
+                <span class="legend-text">3 - 6 heures</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-color black"></span>
+                <span class="legend-text">> 6 heures</span>
+            </div>
+        </div>
+    </div>
+
+   <div id="map"></div>
+   <script src="env-config.js"></script>
+   <script src="waypoints.js"></script>
+   <script src="display_map.js"></script>
+   <script>
+       // Initialize Google Maps with the API key from config
+       (function() {
+           // Check if configuration is loaded
+           if (window.CONFIG && window.CONFIG.GOOGLE_MAPS_API_KEY) {
+               var script = document.createElement('script');
+               script.async = true;
+               script.defer = true;
+               script.src = 'https://maps.googleapis.com/maps/api/js?key=' + window.CONFIG.GOOGLE_MAPS_API_KEY + '&callback=display_map';
+               document.head.appendChild(script);
+               console.log('Google Maps API loading with configuration from env-config.js');
+           } else {
+               console.error('No API key found in env-config.js file');
+               alert('Configuration error: Could not load env-config.js or no API key found. Please ensure you have copied env-config.template.js to env-config.js and added your Google Maps API key.');
+           }
+       })();
+   </script>
+</body>
+</html>

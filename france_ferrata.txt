@@ -1,0 +1,156 @@
+Ville	Nom du site	Département	Région	Altitude max. Explication	Dénivelé Explication	Longueur câblée Explication	Temps Aller Explication	Temps Via Explication	Temps Retour Explication	Nb. Passe-relle Explication	Nb. Pont Népal. Explication	Nb. Pont Singe Explication	Nb. Poutre Explication	Nb. Echelle Explication	Nb. Filet Explication	Nb. tyro. Explication	Queue de Cochon Explication	Pour enfants Explication	Parcours distincts Explication	Cotation classique Explication	Type de via Explication	Athlé-tique (/4) Explication	Gaz (/4) Explication	Ferrée (/4) Explication	Terrain (/4) Explication
+Hostias	La Guinguette	01 - Ain	Rhône-Alpes	710	70	700	0h05	1h15	0h10	1	0	1	5	2	0	0	Oui	Non	1	PD ou AD / D	Sportive	2	3	1	2
+Léaz	Fort l'Ecluse	01 - Ain	Rhône-Alpes	580	150	400	0h03	0h45	0h20	0	0	1	1	0	0	0	Oui	Non	1	AD	Sportive	2	2	1	3
+Lignerolles	Les Gorges du Haut Cher	03 - Allier	Auvergne	270	50	200	0h15	1h00	0h20	2	0	0	0	0	0	0	Non	Oui	1	PD / PD	Ecole
+Digne-les-Bains	Le Rocher de Neuf Heures	04 - Alpes-de-Haute-Provence	PACA	870	110	500	0h40	1h30	0h30	0	1	1	1	1	0	0	Oui	Non	1	AD / AD+	Sportive
+Le Caire	La Grande Fistoire	04 - Alpes-de-Haute-Provence	PACA	1150	250	500	0h15	2h30	0h20	1	1	0	1	0	0	3 T	Oui	Non	1	AD / D+ / D	Sportive	2 / 4 / 4	3 / 4 / 4	1 / 1 / 1	4 / 4 / 4
+Meyronnes	Saint Ours	04 - Alpes-de-Haute-Provence	PACA	2600	708	1170	0h30	5h00	0h30	1	0	0	0	0	0	0	Non	Non	3	PD // D // TD	Montagne
+Prads-Haute-Bléone	La Falaise de Meichira	04 - Alpes-de-Haute-Provence	PACA	1300	300	600	0h10	3h30	0h40	0	0	0	0	0	0	0	Oui	Non	1	AD / AD+	Sportive
+Le Caire	Les Ammonites	04 - Alpes-de-Haute-Provence	PACA	893	93	280	0h00	0h45	0h20	3	0	0	2	1	0	0	Oui	Oui	1	PD	Ecole
+Arvieux	La Crête de Combe La Roche	05 - Hautes-Alpes	PACA	2440	300	460	0h15	2h00	0h45	0	0	0	0	0	0	0	Non	Non	1	D	Montagne
+Arvieux	Pra-Premier	05 - Hautes-Alpes	PACA	2280	200	400	0h20	1h30	0h30	0	0	0	0	1	0	0	Non	Oui	1	AD ou D - AD	Montagne
+Briançon	La Croix de Toulouse	05 - Hautes-Alpes	PACA	1967	680	370	0h30	2h00	0h40	1	0	0	0	0	0	0	Non	Oui	1	PD	Sportive	1	2	1
+Briançon	L'Arête de la Schappe	05 - Hautes-Alpes	PACA	1297	67	175	0h05	0h50	0h10	0	0	0	0	0	0	0	Oui	Oui	1	PD	Sportive
+Ceillac	Les Rochers de la Clapière	05 - Hautes-Alpes	PACA	1980	250	500	0h05	2h00	0h30	1	0	0	0	0	0	0	Non	Partiel	1	AD / D	Sportive
+Chantemerle	Le Rocher Blanc	05 - Hautes-Alpes	PACA	2550	120	350	0h20	0h45	0h35	0	0	0	0	0	0	0	Non	Non	1	PD ou D+	Montagne	2	2	2	3
+Château-Ville-Vieille	Fort Queyras	05 - Hautes-Alpes	PACA	1340	53	800	0h01	0h45	0h05	3	1	0	0	0	0	0	?	Oui	1	F	Ecole
+Freissinières	La Grande Falaise	05 - Hautes-Alpes	PACA	1550	180	1000	0h30	3h00	0h45	0	0	0	0	0	0	0	Non	Non	1	AD / D	Montagne	2	3	2 / 3	3
+La Faurie	Les Gorges d'Agnielles	05 - Hautes-Alpes	PACA	940	50	500	0h10	0h50	0h20	0	0	0	0	0	0	0	Oui	Oui	1	AD+	Sportive	1	3	1	2
+La Grave	Les Mines du Grand Clôt	05 - Hautes-Alpes	PACA	2175	775	2000	0h10	3h00	1h30	0	0	0	0	0	0	0	Oui	Non	1	D	Montagne	3	2	3	2
+L'Argentière-la-Bessée	Les Gorges de la Durance	05 - Hautes-Alpes	PACA	1185	185	1800	0h05	2h30	0h15	4	0	0	0	0	0	0	Non	Partiel	2	AD / F / F // AD // TD	Sportive	3	4	1	3
+L'Argentière-la-Bessée	L'Horloge	05 - Hautes-Alpes	PACA	1010	50	150	0h10	0h20	0h15	0	0	0	0	0	0	0	Non	Oui	1	PD	Sportive	2	3	1	3
+Les Orres	Marcelinas	05 - Hautes-Alpes	PACA	1920	80	500	0h20	1h00	0h45	0	0	0	0	0	0	0	Oui	Oui	1	AD ou PD / AD	Sportive	2	2	1
+Les Orres	La Cascade	05 - Hautes-Alpes	PACA	1850	150	800	0h20	1h20	0h45	0	0	0	0	0	0	0	Oui	Non	1	D / TD / D	Sportive	4	4	1
+Les Vigneaux	Les Vigneaux	05 - Hautes-Alpes	PACA	1500	200	500	0h20	2h00	0h30	1	0	0	0	1	0	0	Non	Non	1	PD - PD ou D	Sportive	2 ou 4	2 ou 3	1 ou 2
+Monêtier-les-Bains	L'Aiguilette du Lauzet	05 - Hautes-Alpes	PACA	3210	600	1000	1h00	2h00	1h30	0	0	0	0	1	0	0	Non	Non	1	PD	Montagne	2	2	3	3
+Monêtier-les-Bains	L'Yret (ou Pointe des Meyzets)	05 - Hautes-Alpes	PACA	2736	400	1000	0h30	2h00	1h00	0	0	0	0	0	0	0	Non	Non	1	PD	Montagne	2	2	2	3
+Plampinet	La Pointe de Charra	05 - Hautes-Alpes	PACA	2642	150	1000	3h00	1h00	2h00	0	0	0	0	0	0	0	Non	Non	1	PD	Aventure
+Puy-Saint-Vincent	Le sentier de la Combe	05 - Hautes-Alpes	PACA	1580	160	600	0h05	1h05	0h25	7	0	0	0	2	0	0	Non	Oui	1	F ou PD	Sportive	1	1	1	2
+Puy-Saint-Vincent	Tournoux	05 - Hautes-Alpes	PACA	1980	300	600	0h10	1h30	0h20	0	0	0	0	0	0	0	Non	Oui	1	AD / PD / PD	Sportive	2	1	1
+Saint-Etienne-en-Dévoluy	Le défilé des Etroits	05 - Hautes-Alpes	PACA	1281	43	1100	0h01	2h00	0h20	2	0	1	0	0	0	0	Non	Non	1	PD ou D / D+	Sportive	1 /3	2 / 3	3 / 2
+Sigoyer	La Montagne de Céüse	05 - Hautes-Alpes	PACA	1960	60	60	1h30	0h20	2h00	0	0	0	0	0	0	0	Non	Non	1	AD	Aventure
+Villar-d'Arêne	Arsine	05 - Hautes-Alpes	PACA	1850	200	300	0h05	1h00	0h20	0	0	0	0	0	0	0	Oui	Non	1	PD / PD	Sportive
+Villeneuve-la-Salle	Le Rocher du Bez	05 - Hautes-Alpes	PACA	1620	100	350	0h15	2h00	0h15	1	0	0	0	0	0	0	Non	Oui	2	F / F // F / F	Ecole	1	1	1	2
+Orcières	Le Rocher d’Arthouze	05 - Hautes-Alpes	PACA	 	180	500	0h05	2h00	0h30	0	0	0	0	0	0	0	Oui	Partiel	1	F / PD / AD / D	Sportive
+Pelvoux	Les Gorges d’Ailefroide	05 - Hautes-Alpes	PACA	 	 	 	0h00	1h30	0h30	3	0	0	0	0	0	0	?	Oui	1	 	Sportive
+Ancelle	Rouanne	05 - Hautes-Alpes	PACA	 	65	 	0h10	2h30	0h25	1	1	0	0	0	0	0	Oui	Oui	3	PD - AD - D	Sportive
+Saint-Etienne-en-Dévoluy	Via Souterrata de la Tune	05 - Hautes-Alpes	PACA	1585	30	200	0h15	1h00	0h10	1	0	1	0	0	0	0	Oui	Oui	1	AD+	Sportive
+Auron	La Traditionnelle	06 - Alpes-Maritimes	PACA	2274	200	1900	0h10	3h30	0h30	4	0	2	0	0	0	0	Oui	Partiel	1	F / D / AD / D / TD / D / AD	Montagne	1 à 3	2 à 3	1 à 2	2 à 3
+Caille	Via souterrata	06 - Alpes-Maritimes	PACA	1340	-35	350	0h15	1h00	0h10	1	0	2	0	1	0	0	Non	Oui	1	AD	Sportive	1	1	2	2
+La Brigue	La Ciappéa	06 - Alpes-Maritimes	PACA	1000	70	600	0h20	1h30	0h15	0	0	7	0	0	0	1 C	Oui	Non	1	D+ / D / D	Sportive	4	3	2	2
+La Colmiane	Le Baus de la Frema	06 - Alpes-Maritimes	PACA	2246	486	1900	0h15	4h30	0h45	1	0	3	0	1	0	0	Oui	Non	1	De D+ à TD (6)	Montagne	3	3	2	3
+Lantosque	Les Canyons de Lantosque	06 - Alpes-Maritimes	PACA	500	60	1200	0h02	2h00	0h10	4	1	6	5	2	0	1 C	Non	Non	1	F / AD / AD / D	Sportive	2	2	2	3
+Peille	L'Escale	06 - Alpes-Maritimes	PACA	700	220	750	0h10	2h00	0h15	2	0	2	0	1	0	1 C	Oui	Non	1	D / TD / D / AD	Sportive	4	3	2	2
+Puget-Théniers	Les Demoiselles du Castagnet	06 - Alpes-Maritimes	PACA	777	257	750	0h15	1h30	0h30	1	1	1	0	0	0	1 C	Oui	Non	1	D+ / D / D	Sportive	3	3	1	3
+Roubion	La Balma Negra	06 - Alpes-Maritimes	PACA	1480	35	250	0h20	1h00	0h15	0	0	1	0	0	0	0	?	Oui	1	AD	Sportive
+Tende	Les Hérétiques	06 - Alpes-Maritimes	PACA	1328	340	1000	0h30	2h00	0h45	1	1	3	0	0	0	2 C	Oui	Non	1	D / D / D / TD	Sportive	3	3	2	3
+Thueyts	Le Pont du Diable	07 - Ardèche	Rhône-Alpes	562	100	490	0h10	1h30	0h20	1	0	1	0	0	0	1 S	Oui	Non	2	AD+ // D	Sportive
+Castillon-en-Couserans	Les Estagnous	09 - Ariège	Midi-Pyrénées	2250	150	620	3h30	2h00	3h30	0	0	0	0	0	0	0	Non	Non	1	AD / AD	Aventure
+Vicdessos	Vicdessos	09 - Ariège	Midi-Pyrénées	715	550	350	0h10	2h00	0h30	2	1	1	4	1	0	0	Oui	Partiel	2	F / PD // D	Sportive
+Liaucous	La porte des gorges du Tarn	12 - Aveyron	Midi-Pyrénées	730	230	1000	0h15	2h00	0h45	10	0	0	0	0	0	1 S	Oui	Oui	1	PD ou TD	Sportive
+Millau	Le Boffi	12 - Aveyron	Midi-Pyrénées	450	95	1100	0h25	1h30	0h25	2	0	1	1	0	1	2 S	Oui	Partiel	1	PD - PD ou D - TD	Sportive	2	3	1	3
+Sainte-Geneviève-sur-Argence	Les Bois des Baltuergues	12 - Aveyron	Midi-Pyrénées	610	200	800	0h05	2h30	0h05	4	0	4	1	0	0	0	Non	Non	1	AD / AD ou D / AD	Sportive
+Bor-et-Bar	Roc del Gorb	12 - Aveyron	Midi-Pyrénées	 	 	450	0h05	1h00	0h10	2	2	3	0	0	0	1	?	Oui	1	PD - D	Sportive
+Clécy	La Cambronnerie	14 - Calvados	Basse-Normandie	 	70	250	0h01	0h45	0h15	3	0	1	2	0	0	0	Oui	Oui	1	AD	Sportive	1	2	1	3
+Lascelle	Le Lac des Graves	15 - Cantal	Auvergne	890	180	320	0h15	1h30	0h30	0	0	0	0	0	0	0	Non	Non	1	AD ou D - AD / AD	Sportive
+Saint-Martial Entraygues	La Dordogne	19 - Corrèze	Limousin	 	 	400	0h00	1h20	0h10	1	1	1	0	0	0	0	Oui	Partiel	4	AD - AD - AD+ - D	Sportive
+Combe-Saint-Pierre	Les échelles de la mort	25 - Doubs	Franche-Comté	600	100	500	0h10	1h20	0h15	2	1	1	3	4	0	1 S	Oui	Non	1	AD / AD / D	Sportive
+Consolation-Maisonnettes	Val de Consolation	25 - Doubs	Franche-Comté	650	130	200	0h10	1h00	0h15	0	0	0	0	0	0	0	?	Non	3	F // AD // D	Sportive
+Nans-sous-Sainte-Anne	Les Baumes du Verneau	25 - Doubs	Franche-Comté	550	200	1400	0h10	1h50	0h10	0	1	3	3	0	0	0	Oui	Partiel	1	F / PD / AD / TD ou ED	Sportive	1 / 2 / 2 / 4	1 / 2 / 2 / 3	1 / 1 / 1 / 2	2 / 2 / 3 / 4
+Ornans	La Roche du Mont	25 - Doubs	Franche-Comté	480	20	530	0h10	1h15	0h15	0	1	2	3	2	0	0	Oui	Non	2	AD / AD / AD // ED+ / ED	Sportive	2 // 4	2 // 2	2 // 1	3 // 4
+Buis-les-Baronnies	Saint Julien	26 - Drôme	Rhône-Alpes	844	80	1710	0h10	5h00	0h30	3	5	8	14	1	1	1 S	Oui	Partiel	4	PD // D // D+ // D	Sportive	1 / 3 / 3 / 3	2 / 3 / 3 / 4	2	2 / 4 / 4 / 4
+Chalancon	Le Pas de l'Echelle	26 - Drôme	Rhône-Alpes	980	200	650	0h01	1h15	0h20	0	0	0	1	2	0	1 S	Oui	Non	1	AD / AD+	Sportive	2	3	2	2
+Chamaloc	Chironne	26 - Drôme	Rhône-Alpes	1415	160	500	0h10	2h00	0h20	0	0	0	0	0	0	0	Oui	Partiel	1	D / TD / AD	Sportive
+Luc-En-Diois	Le Claps	26 - Drôme	Rhône-Alpes	800	200	650	0h01	1h10	0h20	0	0	0	1	0	0	0	Oui	Non	1	AD / AD+	Sportive	2	3	1	2
+Lus-la-Croix-Haute	La Berche	26 - Drôme	Rhône-Alpes	1440	300	650	0h00	2h15	0h20	0	1	0	3	0	0	0	Oui	Partiel	1	AD - D ou F / AD / F	Sportive	2	2	1	3
+Péri	Péri	2A - Corse-du-Sud	Corse	1250	800	 	0h30	2h30	1h30	1	0	0	0	0	0	0	?	Non	1	AD / PD / D	Sportive
+Tolla	Tolla	2A - Corse-du-Sud	Corse	1100	800	1000	0h00	2h30	0h00	0	0	1	0	0	0	0	Oui	Non	1	PD / AD / F	Sportive
+Zonza	Tafunatu di Paliri	2A - Corse-du-Sud	Corse	1312	 	 	2h10	1h00	2h10	0	0	0	0	0	0	0	Non	Non	1	D	Sportive
+Chisa	U Calanconi	2B - Haute-Corse	Corse	689	306	400	0h15	2h30	0h15	3	3	2	0	0	1	4 C	Oui	Partiel	1	PD / D / D / AD	Sportive
+Collias	Les Gorges du Gardon	30 - Gard	Languedoc-Roussillon	100	35	320	0h15	1h00	0h20	0	0	1	0	0	0	2 S	Non	Non	1	AD - AD ou D / AD / TD	Sportive	2	2	3	3
+Méjannes-le-Clap	Le Rocher de l'Aigle	30 - Gard	Languedoc-Roussillon	210	25	150	0h05	0h30	0h10	0	0	1	0	0	0	2 C	Non	Non	1	AD / PD	Sportive	2	2	3	2
+Saint-Bauzille-de-Putois	Thaurac	34 - Hérault	Languedoc-Roussillon	320	120	400	0h20	2h00	0h15	0	1	1	0	0	0	1 S	Non	Non	2	D	Sportive	2	2	1	3
+Saint-Sériès	La Roque (Vidourle)	34 - Hérault	Languedoc-Roussillon	50	30	260	0h05	1h15	0h10	0	0	1	0	0	0	1 S	Non	Non	1	D / TD	Sportive	4	2	2	4
+Alpe-du-Grand-Serre	La Cascade	38 - Isère	Rhône-Alpes	1620	240	500	0h02	1h30	0h30	0	1	2	4	0	0	0	Oui	Oui	1	F / F / PD / PD	Sportive	1 / 1 / 2 / 2	1	1	1/ 2 / 3 / 2
+Alpe-du-Grand-Serre	Le Grand Bec	38 - Isère	Rhône-Alpes	2080	330	750	0h55	1h05	1h45	0	0	0	3	1	0	0	Oui	Non	1	AD / D	Montagne	1 / 3	1 / 3	1 / 1	2 / 4
+Chamrousse	Le Rocher des 3 Fontaines	38 - Isère	Rhône-Alpes	2240	40	350	1h45	1h00	0h50	0	1	1	3	0	0	0	Oui	Non	1	PD / AD / AD	Montagne	1	2	2	3
+Chamrousse	Les Lacs Robert	38 - Isère	Rhône-Alpes	2200	150	300	1h50	1h00	1h00	1	0	0	0	0	0	0	Oui	Non	1	AD	Montagne	2	3	2	4
+Corps	Le Lac du Sautet	38 - Isère	Rhône-Alpes	960	160	1400	0h01	3h00	0h02	2	0	0	0	2	0	0	Non	Partiel	1	PD / AD	Sportive	2	2	1	3
+Corps	Le Belvédère du Sautet	38 - Isère	Rhône-Alpes	960	21	130	0h01	0h30	0h01	1	0	2	4	3	0	0	Oui	Oui	2	F // PD	Ecole
+Crolles	La Cascade de l'Oule	38 - Isère	Rhône-Alpes	930	270	800	0h30	2h00	0h10	1	0	0	1	3	0	0	Oui	Non	1	AD - D ou ED	Sportive	1 - 4	3 - 3	2 - 2	3 - 3 ou 4
+Grenoble	Les Prises de la Bastille	38 - Isère	Rhône-Alpes	435	237	950	0h02	1h20	0h25	1	0	1	1	0	0	0	Oui	Partiel	3	D // D / AD ou D / AD ou TD - AD	Sportive	2 // 4	1 // 2	2	3
+L'Alpe-d'Huez	Les Gorges de Sarenne	38 - Isère	Rhône-Alpes	1850	200	300	0h25	0h50	0h05	0	0	0	0	0	0	0	Oui	Oui	1	PD ou D+	Sportive	2 / 3	2 / 3	1 / 2	3 / 4
+Les Deux Alpes / Venosc	Les Perrons	38 - Isère	Rhône-Alpes	1750	500	900	1h00	2h00	0h20	0	0	0	0	0	0	0	Non	Non	1	D	Montagne	2	3	2
+Saint-Christophe-en-Oisans	St Christophe en Oisans	38 - Isère	Rhône-Alpes	1544	344	1200	0h02	2h00	0h30	1	0	0	0	0	0	0	Oui	Non	1	D / AD	Sportive	2	2	2
+Mizoen	La Cascade de la Pisse	38 - Isère	Rhône-Alpes	1540	250	350	0h15	1h30	1h00	0	0	0	0	0	0	0	Non	Non	1	D	Sportive
+Vaujany	Cascade de la Fare	38 - Isère	Rhône-Alpes	1715	297	500	0h25	1h20	1h00	2	1	1	0	1	0	0	Oui	Non	1	D / D+	Sportive	2	2	1	3
+Saint-Vincent-de-Mercuze	Le Rocher de l’Envers	38 - Isère	Rhône-Alpes	665	50	290	0h40	0h40	0h40	1	0	0	2	0	0	0	Oui	Non	1	AD	Sportive	1	1	1	3
+Moirans-en-Montagne	Le Regardoir	39 - Jura	Franche-Comté	600	30	350	0h10	1h30	0h05	1	0	1	1	2	0	0	Oui	Oui	1	AD à D	Sportive
+Morez	La Roche du Dade	39 - Jura	Franche-Comté	918	216	650	0h10	2h00	0h15	1	1	1	0	1	0	2 S	Oui	Oui	1	AD / D / AD	Sportive
+Planfoy	Les Pillots	42 - Loire	Rhône-Alpes	700	50	250	0h30	1h00	0h30	7	0	0	0	0	0	0	Oui	Oui	1	F	Ecole
+Planfoy	Planfoy	42 - Loire	Rhône-Alpes	800	150	600	0h45	1h00	0h35	2	0	1	1	0	0	1 S	Oui	Non	1	AD / AD	Sportive	1	2	1	3
+Le Pertuis	Puy des Juscles	43 - Haute-Loire	Auvergne	1050	115	425	0h20	1h30	0h20	2	0	1	1	2	1	1	Oui	Oui	1	F / PD ou AD (4 échappatoires)	Sportive	1	1	1	2
+Saint-Jean-Lachalm	Les Rochers de la Miramande	43 - Haute-Loire	Auvergne	110	350	950	0h20	1h15	0h15	0	0	0	0	0	0	0	Oui	Partiel	1	AD / AD / PD	Sportive
+Rousses	Rousses	48 - Lozère	Languedoc-Roussillon	785	30	 	0h10	1h00	0h10	2	0	2	0	0	0	3 S	Oui	Non	1	F ou PD	Sportive
+Villefort	Le Lac de Villefort	48 - Lozère	Languedoc-Roussillon	670	50	350	0h10	2h30	0h20	1	2	2	0	0	0	1 S	Oui	Oui	1	F ou D	Sportive
+La Canourgue	Roqueprins	48 - Lozère	Languedoc-Roussillon	890	 	110	0h00	2h00	0h30	1	2	3	0	0	1	1 S	?	Oui	1	AD ou D	Sportive
+Mende	Le Rocher de Moïse	48 - Lozère	Languedoc-Roussillon	940	50	185	0h25	1h30	0h40	0	1	1	0	0	0	2 S	?	Oui	1	F - TD ou F / F	Sportive
+Malzieu	Malzieu	48 - Lozère	Languedoc-Roussillon	920	60	 	0h05	2h30	0h15	1	1	4	0	0	0	1 S	Non	Non	2	AD ou TD	Sportive
+Florac	Florac	48 - Lozère	Languedoc-Roussillon	1020	60	800	0h30	2h30	0h30	2	1	3	0	0	0	1	?	Partiel	1	AD / ED	Sportive
+Le Mont-Dore	Le Capucin	63 - Puy-de-Dôme	Auvergne	1468	222	400	0h30	2h00	0h20	1	0	2	0	0	0	0	Oui	Oui	1	PD	Sportive
+Eaux-Bonnes	Siala	64 - Pyrénées-Atlantiques	Aquitaine	1118	150	320	0h05	1h30	0h30	0	2	2	0	0	0	0	Oui	Partiel	1	PD / F - (PD / D ) ou (TD)	Sportive
+Cauterets	Les Alias	65 - Hautes-Pyrénées	Midi-Pyrénées	1050	180	1500	0h10	2h30	0h15	2	0	0	0	0	3	6 S	Oui	Partiel	1	F ou TD - AD	Sportive
+Gavarnie	Chaos de Coumély	65 - Hautes-Pyrénées	Midi-Pyrénées	1380	180	400	0h15	2h30	0h15	1	0	0	0	0	0	0	Oui	Non	1	PD - TD ou TD+ - PD	Sportive
+Luz-Saint-Sauveur	Le Pont Napoléon	65 - Hautes-Pyrénées	Midi-Pyrénées	820	70	150	0h10	1h00	0h01	0	0	1	0	0	0	1	Oui	Non	1	D	Sportive	2	2	1	3
+Llo	Les Escaldilles	66 - Pyrénées-Orientales	Languedoc-Roussillon	1659	259	800	0h10	1h30	0h30	1	0	0	1	0	0	0	Non	Non	1	AD - AD ou D+	Sportive	3	3	1
+Saint-Paul-de-Fenouillet	Fenouillèdes - La Panoramique	66 - Pyrénées-Orientales	Languedoc-Roussillon	600	300	900	0h10	3h00	0h50	0	1	1	0	0	0	0	Oui	Non	1	AD - D	Sportive
+Saint-Paul-de-Fenouillet	Fenouillèdes - La Pichona	66 - Pyrénées-Orientales	Languedoc-Roussillon	380	80	150	0h10	1h30	0h15	0	0	0	0	0	0	0	Oui	Oui	1	F	Ecole
+La Plagne	Les bourtes	73 - Savoie	Rhône-Alpes	2560	245	600	0h45	1h30	1h00	1	1	0	2	0	0	2 S	Oui	Oui	1	AD / AD+ / D	Sportive
+Valfrejus	Le Grand Vallon	73 - Savoie	Rhône-Alpes	1600	50	300	0h10	1h30	0h00	3	3	2	0	2	0	0	Oui	Partiel	1	AD / D / AD	Sportive
+Aiguebelette-le-Lac	La Tête de Cheval	73 - Savoie	Rhône-Alpes	650	200	330	0h10	1h00	0h45	0	0	0	0	0	0	0	Oui	Non	1	AD	Sportive	1	2	1	3
+Aillon-le-Jeune	Le Nant de Rossane	73 - Savoie	Rhône-Alpes	1050	20	300	0h10	1h00	0h10	0	1	2	1	1	0	1 C	Oui	Oui	1	AD / F / AD ou D	Ecole	2	1	2	2
+Aussois	L'école Buissonnière	73 - Savoie	Rhône-Alpes	1565	35	150	0h05	1h00	0h05	0	0	1	4	0	0	0	Oui	Oui	1	AD / AD	Ecole
+Aussois	Le Diable	73 - Savoie	Rhône-Alpes	1350	600	3760	0h00	8h00	0h00	5	0	2	0	2	0	0	Non	Partiel	7	AD // D // D // D // D // AD // PD	Sportive
+Beaufort	Le Roc du Vent	73 - Savoie	Rhône-Alpes	2360	550	850	0h35	2h15	0h40	0	1	0	0	0	0	0	Oui	Non	2	AD // AD+	Montagne	1	3	3	3
+Bourdeau	Le Roc du Cornillon	73 - Savoie	Rhône-Alpes	820	50	370	0h25	0h50	0h30	0	0	1	24	1	0	0	Oui	Partiel	1	PD / AD / PD	Sportive	2	3	1	2
+Champagny-en-Vanoise	Le Plan du Bouc	73 - Savoie	Rhône-Alpes	1950	150	900	0h30	2h00	0h50	0	0	0	0	1	0	0	Oui	Oui	1	PD ou AD / PD	Sportive	1	2	2	3
+Champagny-en-Vanoise	Les Grosses Pierres	73 - Savoie	Rhône-Alpes	1370	80	200	0h10	0h50	0h20	0	0	1	1	0	0	0	Oui	Non	1	TD+	Sportive
+Courchevel	La Croix des Verdons	73 - Savoie	Rhône-Alpes	2739	240	800	0h15	2h00	0h45	0	0	1	0	0	0	0	Non	Non	2	D / D	Montagne
+Lanslevillard	Le Pichet	73 - Savoie	Rhône-Alpes	1520	70	350	0h15	1h30	0h15	1	0	0	0	2	0	0	Oui	Partiel	1	PD / AD+	Sportive
+Levassaix	Le Levassaix	73 - Savoie	Rhône-Alpes	1880	130	450	0h15	1h00	0h40	0	0	1	1	0	0	0	Oui	Oui	1	PD / PD	Sportive
+Le Villaron	Andagne	73 - Savoie	Rhône-Alpes	2250	520	1000	0h05	1h30	1h00	0	0	0	1	0	0	0	Oui	Partiel	1	AD / PD / D	Montagne	2	2	2	3
+Moriond	Le Lac de la Rosière	73 - Savoie	Rhône-Alpes	1550	100	600	0h10	1h30	0h10	0	0	1	1	1	0	0	Oui	Oui	1	PD / PD	Ecole	1	1	1
+Peisey-Nancroix	Les Bettières	73 - Savoie	Rhône-Alpes	1910	300	600	0h10	1h30	0h50	0	1	0	0	0	0	0	Oui	Partiel	1	PD / AD / D+	Montagne	1 / 3 / 3	2 / 3 / 3	2 / 2 / 2
+Pontamafrey-Montpascal	L'Adret	73 - Savoie	Rhône-Alpes	750	295	450	0h15	2h00	0h45	1	1	0	0	2	0	0	Oui	Non	2	D // TD	Sportive	4 / 4	4 / 4	1 / 1
+Pralognan-la-Vanoise	La Cascade de la Fraîche	73 - Savoie	Rhône-Alpes	1580	80	300	0h10	1h00	0h20	0	0	1	0	0	0	0	Oui	Partiel	1	AD - PD ou AD / D	Sportive	2	3	1	3
+Pralognan-la-Vanoise	Le Ouistiti	73 - Savoie	Rhône-Alpes	1400	20	70	0h00	0h20	0h00	1	0	1	0	1	0	0	Oui	Oui	1	F	Ecole	1	1	1	2
+Saint-Colomban-des Villards	La Chal	73 - Savoie	Rhône-Alpes	1522	160	600	0h15	2h30	0h30	1	0	2	1	0	0	0	Oui	Non	1	AD+ / D+	Sportive	2	4	2	4
+Saint-Colomban-des Villards	Le Rocher de Capaillan	73 - Savoie	Rhône-Alpes	1250	40	130	0h01	0h30	0h10	0	1	1	1	0	0	0	Oui	Oui	2	F // PD	Ecole	1	1	1	2
+Saint Jean d'Arvey	Savoie Grand Revard	73 - Savoie	Rhône-Alpes	1250	180	450	1h00	2h00	0h30	1	1	0	6	0	0	0	Oui	Non	1	D+ ou ED+	Sportive	2 ou 4	4 ou 4	1 ou 1
+Saint Martin d'Arc	Le Fort du Télégraphe	73 - Savoie	Rhône-Alpes	1610	930	900	0h45	3h00	2h00	0	0	1	1	0	0	0	Non	Non	2	D // AD	Sportive
+Saint-Martin-de-Belleville	Le Cochet	73 - Savoie	Rhône-Alpes	2025	375	750	0h20	3h00	0h30	0	0	0	0	0	0	0	Oui	Non	1	AD	Sportive
+Saint-Pierre-d'Entremont	La Roche Veyrand	73 - Savoie	Rhône-Alpes	1305	250	900	0h40	2h00	0h45	2	0	0	2	0	0	0	Oui	Non	1	AD / AD / TD	Montagne	2 / 4	2 / 4	1 / 1	3 / 4
+Saint-Sorlin-d'Arves	La Comborcière	73 - Savoie	Rhône-Alpes	1870	70	260	0h10	1h00	0h20	1	0	1	3	0	0	1 S	Oui	Non	1	AD / PD ou D / PD ou AD	Sportive	2	2	3	2
+Ugine	Le Golet de la Trouye	73 - Savoie	Rhône-Alpes	2409	550	 	1h00	2h00	2h00	0	0	0	0	0	0	0	Non	Non	1	PD	Aventure
+Ugine	Le Pas de l'Ours	73 - Savoie	Rhône-Alpes	2130	30	250	1h30	1h00	2h30	0	0	0	0	0	0	0	Non	Non	1	PD	Aventure	1	2	1
+Val-d'Isère	Le Roc de Tovière	73 - Savoie	Rhône-Alpes	2347	500	1400	0h01	3h00	1h00	3	0	0	1	0	0	0	Oui	Partiel	1	PD / D / ED	Montagne	1 / 3 / 4	3 / 3 / 4	2 / 2 / 2	2 / 3 / 4
+Val-d'Isère	Les Plates de la Daille	73 - Savoie	Rhône-Alpes	2250	350	699	0h10	1h30	0h35	2	0	2	0	0	0	0	Oui	Non	1	TD	Montagne	4	4	2
+Valloire	Le rocher Saint Pierre	73 - Savoie	Rhône-Alpes	1582	170	800	0h05	2h00	0h20	3	0	2	1	1	0	0	Oui	Partiel	1	TD / AD	Sportive	2	2	1	3
+Valloire	Poingt Ravier	73 - Savoie	Rhône-Alpes	1660	200	600	0h02	2h00	0h25	0	0	0	0	0	0	0	Non	Oui	1	PD - PD+ ou PD	Sportive	1	2	1
+Lanslevillard	La Madeleine	73 - Savoie	Rhône-Alpes	1870	100	400	0h05	1h30	0h20	0	0	0	0	0	0	0	Oui	Non	1	AD	Montagne
+Avoriaz	Le Saix du Tour	74 - Haute-Savoie	Rhône-Alpes	2023	173	600	0h20	2h00	0h30	1	1	0	0	0	0	0	Oui	Partiel	1	F / AD / D	Sportive	2	3	1
+Gruffy	La Grotte du Maquis	74 - Haute-Savoie	Rhône-Alpes	1600	50	 	0h40	0h20	0h30	0	0	0	0	0	0	0	Non	Non	1	F	Sportive
+La Chapelle-d'Abondance	Le Saix de Miolène	74 - Haute-Savoie	Rhône-Alpes	1250	220	900	0h20	3h00	0h30	0	0	1	1	0	0	0	Oui	Non	1	AD+ / TD / TD	Sportive	1 / 2 / 4	2 / 3 / 4	2 / 2 / 2
+La Clusaz	La Yves Pollet Villard	74 - Haute-Savoie	Rhône-Alpes	1830	300	700	0h20	3h00	0h45	1	0	0	0	0	0	0	Oui	Non	1	D / F ou D+	Sportive	3	4	1
+Le Grand-Bornand	La Tour du Jalouvre	74 - Haute-Savoie	Rhône-Alpes	2000	450	1100	0h30	2h15	1h00	1	0	0	2	0	0	0	Oui	Non	1	D / D+	Montagne	3	4	2	3
+Passy	La Curalla	74 - Haute-Savoie	Rhône-Alpes	1420	120	400	0h20	1h00	0h45	0	1	1	2	0	0	0	Oui	Non	1	AD	Sportive
+Saint-Julien-en-Genevois	Jacques Revaclier	74 - Haute-Savoie	Rhône-Alpes	1020	70	500	0h20	0h30	0h20	0	0	0	0	0	0	0	Oui	Non	1	D	Sportive	2	3	3
+Sixt-Fer-à-Cheval	Le Mont	74 - Haute-Savoie	Rhône-Alpes	1010	150	800	0h20	1h20	0h20	1	0	0	0	1	0	0	Oui	Non	1	AD / D / AD	Sportive	2	2	2	3
+Thônes	La Roche à l'agathe	74 - Haute-Savoie	Rhône-Alpes	895	235	600	0h10	1h30	0h30	0	0	1	0	1	0	0	Oui	Non	1	PD / D / D+ ou ED	Sportive	4	3	1	4
+Saint-Jean-d'Aulps	Le Rocher de la Chaux	74 - Haute-Savoie	Rhône-Alpes	1173	213	300	0h25	1h30	0h35	0	0	0	1	0	0	0	Oui	Non	1	D+ ou ED	Sportive
+Bellevaux	Bellevaux	74 - Haute-Savoie	Rhône-Alpes	 	280	630	0h30	4h00	0h40	3	1	1	8	1	0	1	Oui	Non	3	AD - D - TD	Sportive	2 / 3 / ?	1 / 2 / ?	1 / 1 / ?	2 / 2 / ?
+Chamonix	Les Evettes	74 - Haute-Savoie	Rhône-Alpes	2150	150	200	0h20	1h30	0h20	0	1	1	0	0	0	0	Oui	Non	1	AD	Montagne
+Faverges-Seythenex	La Cordée des Dahuts	74 - Haute-Savoie	Rhône-Alpes	1900	70	220	0h10	0h45	0h25	1	0	1	1	1	0	0	Oui	Oui	1	PD+	Ecole	 	1	4	2
+Durfort	Malamort	81 - Tarn	Midi-Pyrénées	 	 	 	0h15	1h30	0h15	2	2	1	0	0	0	3 S	Oui	Non	2	F - F ou D	Sportive
+Cavaillon	Cavaillon	84 - Vaucluse	PACA	200	50	600	0h15	2h00	0h10	1	1	5	1	1	0	0	Oui	Partiel	1	AD / D	Sportive	1 / 2	2 / 2	1 / 1	3 / 3
+Bussang	La Source de la Moselle	88 - Vosges	Lorraine	960	300	850	0h05	1h15	0h30	1	0	1	3	0	0	0	Oui	Oui	1	F - F ou AD / PD	Sportive	1	1	1	2
